@@ -28,7 +28,7 @@ namespace XkcdBot
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            const string token = "OTI4NzUzNzMzNzQ2MTg0MjQy.YddXUQ.BEQvfXC1U1z5pnmHNdsbuds7b7w";
+            const string token = "OTI4NzUzNzMzNzQ2MTg0MjQy.YddXUQ.b1yiJWUA64xDiQ2gj-X27p9FLII";
 
             _client.Log += Log;
 
