@@ -1,5 +1,7 @@
 # xkcdbot
 
+Discord bot to utilize the XKCD Api at https://xkcd.com/json.html
+
 ## Commands
 | Command | Description |
 | ------------- | ------------- |
@@ -9,6 +11,7 @@
 ---
 
 ## Screenshots
-
+![image](/XkcdBot/comic.png)
+![image](/XkcdBot/ping.png)
 
 
