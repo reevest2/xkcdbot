@@ -28,7 +28,7 @@ namespace XkcdBot
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            const string token = "SECURE-TOKEN";
+            const string token = "OTI4NzUzNzMzNzQ2MTg0MjQy.YddXUQ.Pvzk8G0lqz5XIHmwrBT3wlJU4LU";
 
             _client.Log += Log;
 
