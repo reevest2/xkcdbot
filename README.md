@@ -11,7 +11,9 @@ Discord bot to utilize the XKCD Api at https://xkcd.com/json.html
 ---
 
 ## Screenshots
+
 ![image](/XkcdBot/comic.png)
+
 ![image](/XkcdBot/ping.png)
 
 
